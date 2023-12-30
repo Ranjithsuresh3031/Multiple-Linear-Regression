@@ -1,0 +1,16 @@
+Project Title: Multiple Linear Regression on Diamonds Dataset
+
+Description:
+Conducted a comprehensive analysis of the Diamonds dataset using Seaborn and StatsModels in Python. Explored relationships between various diamond attributes and prices through data visualization and statistical modeling.
+
+Key Contributions:
+
+    Utilized Seaborn for data visualization, uncovering insights through pair plots.
+    Employed multiple linear regression to model the relationship between diamond features (carat,depth) and price.
+    Transformed categorical variables into dummy variables to incorporate them into the regression model.
+    Split the dataset into training and testing sets for model evaluation.
+    Conducted model evaluation using statistical metrics such as Mean Absolute Error and Root Mean Squared Error.
+    Created visualizations to compare actual diamond prices with model-predicted prices.
+
+Outcome:
+Developed a robust multiple linear regression model that accurately predicts diamond prices based on their attributes. This project demonstrates proficiency in data analysis, statistical modeling, and data visualization, showcasing a data-driven approach to problem-solving.
